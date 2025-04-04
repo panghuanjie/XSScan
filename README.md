@@ -48,8 +48,13 @@
 python3 xs_scan.py -u http://example.com --cookie "SESSIONID=abc123"
 ```
 
-你也可以通过配置文件方式批量管理目标与策略。
+## 运行截图
 
+![image](https://github.com/user-attachments/assets/d99da47b-ce89-450d-a8e8-2e39c4c8fd8c)
+
+![image](https://github.com/user-attachments/assets/1b7a9e34-894e-43d0-b43b-e52558c3d58b)
+
+![image](https://github.com/user-attachments/assets/94d31010-83f9-42e3-850f-2af968c289c3)
 
 
 ## 🎯 未来计划预告
